@@ -1,4 +1,6 @@
 # Automatic-barrier
+![image](https://user-images.githubusercontent.com/80831555/111530673-ddf0f400-8763-11eb-9937-7f2b1be45ab4.png)
+
 Dans ce projet on allons simuler une barrière de parking automatisée avec Arduino. Cette maquette reprend le fonctionnement général des systèmes automatisés qui permettent l’accès aux parcs publiques que l’on trouve les dans les gares, aéroports, cinémas, supermarchés, etc.
 Notre barrière s’ouvre à l’aide d’un servomoteur lorsque le capteur sonore HC-SR04 détecte une véhicule et se ferme automatiquement dans le cas contraire , a l’aide d’une afficheur LCD on va jouer sur l’affichage de messages : 
 - parking is empty lorsque le parking est vide 
