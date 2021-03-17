@@ -30,6 +30,7 @@ HARDWARE :
 
 
 SOFTWARE : 
+
        - ARDUINO IDE 
        - installation de package LiquidCrystal_I2C sur IDE 
        - le code dans le fichier barriere.txt
